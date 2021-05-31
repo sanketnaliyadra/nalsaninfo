@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/nalsaninfo/static/css/main.21f699ff.chunk.css",
+    "main.js": "/nalsaninfo/static/js/main.6ae889f3.chunk.js",
+    "main.js.map": "/nalsaninfo/static/js/main.6ae889f3.chunk.js.map",
+    "runtime-main.js": "/nalsaninfo/static/js/runtime-main.11103b57.js",
+    "runtime-main.js.map": "/nalsaninfo/static/js/runtime-main.11103b57.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/nalsaninfo/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.1253e067.chunk.js": "/nalsaninfo/static/js/2.1253e067.chunk.js",
+    "static/js/2.1253e067.chunk.js.map": "/nalsaninfo/static/js/2.1253e067.chunk.js.map",
+    "index.html": "/nalsaninfo/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/nalsaninfo/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.21f699ff.chunk.css.map": "/nalsaninfo/static/css/main.21f699ff.chunk.css.map",
+    "static/js/2.1253e067.chunk.js.LICENSE.txt": "/nalsaninfo/static/js/2.1253e067.chunk.js.LICENSE.txt",
+    "static/media/about.3c0cb375.svg": "/nalsaninfo/static/media/about.3c0cb375.svg",
+    "static/media/ai.bf1f01d3.svg": "/nalsaninfo/static/media/ai.bf1f01d3.svg",
+    "static/media/application.d0d6e3e0.svg": "/nalsaninfo/static/media/application.d0d6e3e0.svg",
+    "static/media/enterprise.1df72453.svg": "/nalsaninfo/static/media/enterprise.1df72453.svg",
+    "static/media/home.50727472.svg": "/nalsaninfo/static/media/home.50727472.svg",
+    "static/media/marketing.2c2d18f3.svg": "/nalsaninfo/static/media/marketing.2c2d18f3.svg",
+    "static/media/software.d218d757.svg": "/nalsaninfo/static/media/software.d218d757.svg",
+    "static/media/website.47caea86.svg": "/nalsaninfo/static/media/website.47caea86.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11103b57.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.1253e067.chunk.js",
+    "static/css/main.21f699ff.chunk.css",
+    "static/js/main.6ae889f3.chunk.js"
+  ]
+}
